@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4CAF50; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); letter-spacing: 2px;">Hi 👋, I'm <span style="color: #FF5722;">Sambit Mait</span></h1>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4CAF50; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); letter-spacing: 2px;">Hi 👋, I'm <span style="color: #FF5722;">Sambit Maity</span></h1>
 
 <h3 align="center">Graduate Computer Science Engineer Passionate about Cyber Security</h3>
 
