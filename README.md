@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sambit Maity</h1>
+<h1 align="center" style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; color: #4CAF50; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); letter-spacing: 2px;">Hi 👋, I'm <span style="color: #FF5722;">Sambit Mait</span></h1>
+
 <h3 align="center">Graduate Computer Science Engineer Passionate about Cyber Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=loco0011&label=Profile%20views&color=0e75b6&style=flat" alt="loco0011" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loco0011" alt="loco0011" /></a> </p>
 
 - 🔭 I’m currently working on **Med-x**
 
