@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **HTML, PHP**
 
-- 📫 How to reach me **me.tibmas@gmail.com**
+- 📫 How to reach me **official.sambitmaity@gmail.com**
 
 - 📄 Know about my experiences [https://www.canva.com/design/DAFpPY7ZLTE/GVzhUw1MJVmtKiTeZT8MIA/edit?utm_content=DAFpPY7ZLTE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFpPY7ZLTE/GVzhUw1MJVmtKiTeZT8MIA/edit?utm_content=DAFpPY7ZLTE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
